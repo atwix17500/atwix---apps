@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "email": "admin@croprec.com",
+    "password_hash": "f2a93e619102ae45cff09d5349280097$4bc7f07305411cc33191bc8b3b3e84b2e8d6c66a4c0f2ac837c2febce7dde35d",
+    "created_at": "2026-06-06T21:34:07.627282",
+    "role": "admin"
+  },
+  "testuser": {
+    "email": "test@test.com",
+    "password_hash": "80ae211ba02f93b6379fa95d33bceb2c$8fb395131e04408217a779a118d8eeca27b4adaf1f39d4082e3ea48919fd56d7",
+    "created_at": "2026-06-06T21:34:10.068661",
+    "role": "user"
+  }
+}
